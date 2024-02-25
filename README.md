@@ -26,7 +26,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Update Channel
-<a href="https://t.me/bjsbottg"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channep-blue.svg?logo=telegram"></a>
+<a href="https://t.me/bjsbottg"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ### Support Group
 <a href="https://t.me/tgbotsideas"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -36,7 +36,7 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aashish2808/Rename-Bot)
 
 #### Thanks to [Aashish2808](https://github.com/Aashish2808) for helping
 
