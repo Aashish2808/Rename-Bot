@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Aashish2808
 
 from typing import Union
 from pyromod import listen
