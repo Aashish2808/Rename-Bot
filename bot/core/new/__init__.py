@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Aashish2808
 
 from .normal_rename import NormalRename
 from .custom_uploader import CustomUploader
